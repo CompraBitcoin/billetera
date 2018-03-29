@@ -1,6 +1,6 @@
 # billetera CompraBitcoin.Online
 
-wallet.comprabitcoin.online
+www.wallet.comprabitcoin.online
 
 Update 2.0
 
