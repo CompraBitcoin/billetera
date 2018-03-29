@@ -1,4 +1,4 @@
-# billetera CompraBitcoin.Online
+# Billetera CompraBitcoin.Online
 
 http://wallet.comprabitcoin.online
 
