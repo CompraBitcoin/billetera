@@ -1,6 +1,6 @@
 # Billetera CompraBitcoin.Online
 
-http://wallet.comprabitcoin.online
+https://comprabitcoin.online/trade/
 
 Update 2.0
 
